@@ -1,9 +1,10 @@
 # Easy-Combat-System---SFML
 
-Z : UP
-S : DOWN
-Q : LEFT
-D : RIGHT
 
-LEFT CLICK : DAMAGE ZONE
-RIGHT CLICK : MISSILE
+|Z|S|Q|D|LEFT CLICK|RIGHT CLICK|
+|-------------|-------------|-------------|-------------|-------------|-------------|
+|UP|DOWN|LEFT|RIGHT|DAMAGE ZONE|MISSILE|
+
+
+
+
